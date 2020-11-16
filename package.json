@@ -7,5 +7,8 @@
     "test": "scripts/test.sh"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "reveal.js": "^4.1.0"
+  }
 }
