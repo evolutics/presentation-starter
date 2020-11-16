@@ -1,0 +1,11 @@
+{
+  "name": "presentation-starter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "scripts/test.sh"
+  },
+  "author": "",
+  "license": "MIT"
+}
