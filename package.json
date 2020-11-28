@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
+    "start": "xdg-open index.html",
     "test": "scripts/test.sh"
   },
   "author": "",

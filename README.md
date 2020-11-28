@@ -8,5 +8,5 @@ Starter template for presentations with [reveal.js](https://revealjs.com/).
 
 ```bash
 npm install
-xdg-open index.html
+npm run start
 ```
